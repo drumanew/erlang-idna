@@ -17,5 +17,6 @@ _plugins
 _tdeps
 logs
 _build
+deps
 
 uc_spec/unicode_util.erl
